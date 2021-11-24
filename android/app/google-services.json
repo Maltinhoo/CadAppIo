@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932331592842",
+    "project_id": "food-bar-3f0e5",
+    "storage_bucket": "food-bar-3f0e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932331592842:android:99efa15d949d5f03c56173",
+        "android_client_info": {
+          "package_name": "br.com.cunha.food_bar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932331592842-6u8flg8hr1bkhnl1jcu2bv5uks63tr99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0wst0ovAuFztt_-gag_kUlbPxwr6opVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932331592842-6u8flg8hr1bkhnl1jcu2bv5uks63tr99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
